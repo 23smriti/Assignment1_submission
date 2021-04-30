@@ -19,3 +19,5 @@ import java.util.*;
         System.out.println("False");
     }
   }
+// input - 6
+// output- True
